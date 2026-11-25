@@ -95,13 +95,6 @@ The application will open in your browser.
 
 Telecommunication companies can use customer churn prediction systems to identify customers who may discontinue their services. This helps businesses take proactive steps, improve customer satisfaction, and develop customer retention strategies.
 
-## 🚀 Future Improvements
-
-- Include more customer-related input features.
-- Add customer churn visualizations and analytics.
-- Improve prediction accuracy through model optimization.
-- Provide personalized customer retention recommendations.
-- Deploy the application online.
 
 ## 👩‍💻 Author
 
